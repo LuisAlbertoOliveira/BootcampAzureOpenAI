@@ -1,5 +1,5 @@
 # BootcampAzureOpenAI
-# Repositório criado para realizar a entrega do projeto do Bootcampo da DIO sobre Azure OpenAI.
+# Repositório criado para realizar a entrega do projeto do Bootcamp da DIO sobre Azure OpenAI.
 # Autor: Luis Alberto Pires de Oliveira
 # Email: oliv.luis@gmail.com
 # gitHub: oliv.luis@hotmail.com
