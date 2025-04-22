@@ -1,0 +1,29 @@
+Prática de Semantic Kernel
+Data: 22/04/2025
+Author: Luis Alberto Pires de Oliveira
+
+Semantic Kernel é um middleware de IA; um SDK de código aberto da Microsoft que facilita a integração de modelos de IA em aplicações. 
+
+- Serve para funcionalidade extras;
+- Colocar funções de processo automático;
+- Agentes de IA.
+
+Arquitetura básica
+
+Kernel, Skills, Functions, Memory
+
+No exemplo o Pablo colocou um exemplo para que o modelo criasse piadas engraçadas.
+
+Passo a passo do exemplo prático:
+
+Carrega o kernel
+
+Serviços da open ai
+
+Remove os serviços que 
+
+Cria novo service com service_id
+
+Adiciona novo plugin. 
+
+Carrega o fun_plugin
